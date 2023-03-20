@@ -50,6 +50,6 @@ Corosync - программный продукт, позволяющий реа�
 
 #### Ответ:  
 Нода 1  
-!(Скрин1)[https://github.com/Karhq/10.3_hw_pacemaker/blob/main/node%201.png]  
+![Скрин1](https://github.com/Karhq/10.3_hw_pacemaker/blob/main/node%201.png)  
 Нода 2  
-!(Скрин1)[https://github.com/Karhq/10.3_hw_pacemaker/blob/main/node%202.png]  
+![Скрин2](https://github.com/Karhq/10.3_hw_pacemaker/blob/main/node%202.png)  
